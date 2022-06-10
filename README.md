@@ -6,8 +6,4 @@
 - 🌱 Actuellement je réalise un portfolio
 - 💞️ Je travaille dans l'EdTech et je cherche à découvrir de nouvelles pratiques pédagogiques en distanciel
 - 📫 How to reach me ... If you're here, you've got my mail...
-
-# Les projets de mon portfolio...
-
-* HTML / CSS ( sans framework ) : le défis de Graven ( [Nature Emoi](http://) )
-* Javascript Vanilla :  
+ 
